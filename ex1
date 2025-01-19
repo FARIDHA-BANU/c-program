@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main(){
+int a=4567,b=1268;
+c=a+b;
+d=a-b;
+res=c+d;
+printf("%d",(res)/2);
+}
